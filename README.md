@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan Dave
-- 👀 I’m interested in Microservices Dev, Devops
+- 👀 I’m interested in JAVA, Microservices Development, Devops
 - 🌱 I’m currently learning AWS, K8s, Docker, SRE Principles
 
 
